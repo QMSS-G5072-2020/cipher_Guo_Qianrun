@@ -10,7 +10,7 @@ Welcome to cipher_qg2196's documentation!
 .. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
         :target: https://shields.io/
 
-We add cipher function into this package
+This package contians cipher function and test function
 
 To get started, check out the sections below:
 
