@@ -2,7 +2,7 @@
 
 ![](https://github.com/qrguo-0416/cipher_qg2196/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/qrguo-0416/cipher_qg2196/branch/main/graph/badge.svg)](https://codecov.io/gh/qrguo-0416/cipher_qg2196) ![Release](https://github.com/qrguo-0416/cipher_qg2196/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/cipher_qg2196/badge/?version=latest)](https://cipher_qg2196.readthedocs.io/en/latest/?badge=latest)
 
-We are adding the cipher function to the package
+We add cipher function into this package
 
 ## Installation
 

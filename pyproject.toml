@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "cipher_qg2196"
 version = "0.1.0"
-description = "We are adding the cipher function to the package"
+description = "We add cipher function into this package"
 authors = ["Qianrun Guo <qg2196@columbia.edu>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^2.7"
+python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 
